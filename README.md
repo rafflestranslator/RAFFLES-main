@@ -1,5 +1,5 @@
-# RAFFLES-main
-A English-Indonesian and vice versa translation machine with [Standford CoreNLP API](https://stanfordnlp.github.io/CoreNLP/api.html) and [Prosa.ai Syntatic Analyzer API](https://www.prosa.ai/products/text-api/syntactic-analyzer).
+# RAFFLES-main (Main Repo)
+An English-Indonesian and vice versa translation machine with [Stanford CoreNLP API](https://stanfordnlp.github.io/CoreNLP/api.html) and [Prosa.ai Syntatic Analyzer API](https://www.prosa.ai/products/text-api/syntactic-analyzer).
 
 # Project Workflow
 ```!!! please always work in develop branch```
